@@ -1,0 +1,70 @@
+#phil{
+	font-style:oblique;
+	font-size:20px;
+	font-weight: bolder;
+}
+#but{
+	background-color:#FFDB19;
+	color:black;
+	font-style:oblique;
+}
+#bring{
+	font-size: 35px;
+	color: #FFF;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+#clean{
+	font-weight:bolder;
+}
+#sec1{
+	margin-top:0px;
+	background-color:#FFDB19;
+	border-top: 4px solid #fff;
+	padding: 25px;
+}
+#pp{
+	color: #fff;
+	font-weight: bolder;
+	font-size: 30px;
+}
+#p1{
+	font-size:40px;
+	color:#656565;
+}
+#make{
+	color:#666;
+	font-size:15px;
+}
+#current{
+	color:#1d414d;
+	margin-bottom:0px;
+}
+#secbody{
+	background-color:#1d414d;
+	color: #fff;
+}
+#healing{
+	border-right:5px solid #fff;
+	color: #fff;
+}
+#bullying{
+	border-left:5px solid #fff;
+	color: #fff;
+}
+#secon{
+	background-color: #ffd42d;
+}
+#para{
+	color: #1d414d;
+}
+#bu{
+	color: #1d414d;
+	border-color: #1d414d;
+}
+#who{
+	margin-bottom:0px;
+	font-weight: bolder;
+	font-size: 16px;
+	color: #fff;
+}
